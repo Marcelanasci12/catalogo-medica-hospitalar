@@ -4,9 +4,9 @@ window.CONFIG = {
   razaoSocial: 'J. R. Melo de Lima - EPP',
   cidade: 'Maceió - AL',
   // WhatsApp que recebe as listas de cotação: 55 + DDD + número, só dígitos. Ex.: '5582999999999'
-  whatsapp: '',
+  whatsapp: '5582999430288',
   // Texto exibido no rodapé (opcional)
-  telefoneExibicao: '',
+  telefoneExibicao: 'Vendas (WhatsApp): (82) 99943-0288',
   email: '',
   endereco: '',
 };
